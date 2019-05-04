@@ -1,16 +1,15 @@
-# Butternut Squash
+# Brussels Sprouts
 
 ## ingredients
-* Butternut Squash
+* Brussels Sprouts (ends trimmed and yellow leaves removed)
 * Olive Oil
-* Garlic
-* Salt & Pepper
+* Salt
+* Pepper
 
 
 ## Steps
-1. PreHeat oven to 400 degrees
-2. Peel, de-seed, and cut the Butternut Squash into 1 inch cubes
-3. coat squash in olive oil and garlic (salt and pepper to taste)
-4. place on baking sheet for 25-30 mins
-
-
+1. Preheat oven to 400 degrees
+2. coat Brussels Sprouts in olive oil, salt, and pepper
+3. place on baking sheet
+4. roast in oven for 30-45 mins
+   1. shake every 5-7 mins
