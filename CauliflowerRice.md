@@ -1,4 +1,5 @@
 # Cauliflower Rice
+rating: ⭐⭐⭐
 
 ## ingredients
 * Cauliflower (a few heads)

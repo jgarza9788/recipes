@@ -1,11 +1,11 @@
 # Butternut Squash
+rating: ⭐
 
 ## ingredients
 * Butternut Squash
 * Olive Oil
 * Garlic
 * Salt & Pepper
-
 
 ## Steps
 1. PreHeat oven to 400 degrees

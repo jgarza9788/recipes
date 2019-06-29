@@ -1,4 +1,5 @@
 # Brussels Sprouts
+rating: ⭐⭐⭐⭐
 
 ## ingredients
 * Brussels Sprouts (ends trimmed and yellow leaves removed)
