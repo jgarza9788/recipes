@@ -13,8 +13,14 @@ makes 4 servings
 * salt and pepper to taste
 
 ## Steps
-1. Prepare the egg noodles according to package directions and set aside.
-2. In a separate large skillet over medium heat, saute the ground beef over medium heat for 5 to 10 minutes, or until browned. Drain the fat and add the soup and garlic powder. Simmer for 10 minutes, stirring occasionally.
-3. Remove from heat and combine the meat mixture with the egg noodles. Add the sour cream, stirring well, and season with salt and pepper to taste.
-
-
+1. prepare noodles
+    1. follow package directions
+2. prepare beef
+    1. saute in skillet with medium heat
+    2. Once browned, drain fat from beef
+    3. add soup and garlic power to beef
+    4. simmer for 10mins, stirring occasionally
+3. combine
+    1. remove beef from heat
+    2. mix in noodles and sour cream
+    3. add salt and pepper
