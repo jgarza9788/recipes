@@ -18,7 +18,10 @@ rating: ⭐⭐⭐⭐
 - repeat until water is clear
 
 2. Soaking
-
+- soak the rice in water for 15-30mins
 
 3. Cook
+- put rice (pineapple and hot links) in rice cooker
+- add water until the rice is completely covered
+-- do not factor the liquid in the pineapple.
 - use white rice setting
