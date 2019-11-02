@@ -17,8 +17,8 @@ rating: ⭐⭐⭐⭐
 - drain the water out
 - repeat until water is clear
 
-1. Preheat oven to 400 degrees
-2. coat Brussels Sprouts in olive oil, balsamic vinegar , salt, and pepper
-3. place on baking sheet
-4. roast in oven for 30-45 mins
-   1. shake every 5-7 mins
+2. Soaking
+
+
+3. Cook
+- use white rice setting
