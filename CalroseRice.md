@@ -1,5 +1,5 @@
 # Calrose Rice
-rating: ⭐⭐⭐⭐
+rating: ⭐⭐⭐⭐️⭐️
 
 ## ingredients
 * Calrose Rice
@@ -7,7 +7,6 @@ rating: ⭐⭐⭐⭐
 * water
 * pineapple (optional)
 * hot links (optional)
-
 
 
 ## Steps
