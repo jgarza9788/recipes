@@ -8,8 +8,8 @@ rating: ?
 * Add slice jalapeno on top (optional)
 
 ## Steps
-1. PreHeat oven to 450 degrees
-2. 25-30 Mins in oven
+1. PreHeat oven to 400 degrees
+2. 40 Mins in oven
 3. done
 
 
