@@ -9,7 +9,7 @@ rating: ?
 
 ## Steps
 1. PreHeat oven to 400 degrees
-2. 40 Mins in oven
+2. 40 Mins in oven || internal temperature of 145 degrees F
 3. done
 
 
