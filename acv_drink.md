@@ -35,7 +35,7 @@ rating: ?
     * 2 Tablespoon apple cider vinegar  
     * 4 Tablespoons organic apple juice  
     * 1 1/2 teaspoon stevia or other natural sweetener*  
-    * 1/25 teaspoon ground cinnamon  
+    * 1/2 teaspoon ground cinnamon  
     * 4 cups of cold water  
 * Honey Cayenne Apple Cider Vinegar Drink  
     * 2  Tablespoon apple cider vinegar  
