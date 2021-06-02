@@ -21,26 +21,25 @@ rating: ?
 
 ## Steps
 >adjusted for quarts 
->adjusted for more flavor (double everything except water)
 * Limeade Apple Cider Vinegar Drink  
-    * 6 Tablespoons apple cider vinegar  
-    * 4 Tablespoon fresh lime juice  
-    * 4 teaspoon stevia or other natural sweetener*  
-    * 1 quart of cold water  
+    * 3 Tablespoons apple cider vinegar  
+    * 2 Tablespoon fresh lime juice  
+    * 2 teaspoon stevia or other natural sweetener*  
+    * 4 cups of cold water  
 * Ginger Spice Apple Cider Vinegar Drink  
-    * 4 Tablespoon apple cider vinegar  
-    * 1 teaspoon ground ginger  
-    * 4  teaspoon stevia or other natural sweetener*  
-    * 1 quart of cold water  
+    * 2 Tablespoon apple cider vinegar  
+    * 1/2 teaspoon ground ginger  
+    * 2  teaspoon stevia or other natural sweetener*  
+    * 4 cups of cold water  
 * Apple Pie Apple Cider Vinegar Drink  
-    * 4 Tablespoon apple cider vinegar  
-    * 8 Tablespoons organic apple juice  
-    * 3 teaspoon stevia or other natural sweetener*  
-    * 2 teaspoon ground cinnamon  
-    * 1 quart of cold water  
+    * 2 Tablespoon apple cider vinegar  
+    * 4 Tablespoons organic apple juice  
+    * 1 1/2 teaspoon stevia or other natural sweetener*  
+    * 1/2 teaspoon ground cinnamon  
+    * 4 cups of cold water  
 * Honey Cayenne Apple Cider Vinegar Drink  
-    * 4  Tablespoon apple cider vinegar  
-    * 8 Tablespoons honey ideally raw and local  
-    * 4 dash cayenne pepper  
-    * 1 quart of cold water  
+    * 2  Tablespoon apple cider vinegar  
+    * 4 Tablespoons honey ideally raw and local  
+    * 2 dash cayenne pepper  
+    * 4 cups of warm/hot water  
 
