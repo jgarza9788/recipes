@@ -18,7 +18,5 @@
 
 
 
-
-
-
-
+[instant-pot recipes](https://www.food.com/ideas/best-instant-pot-recipes-6928)
+[more instant-pot recipes](https://www.pressurecookrecipes.com/easy-instant-pot-recipes/)
