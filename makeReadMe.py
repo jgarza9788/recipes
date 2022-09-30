@@ -9,7 +9,7 @@ output = []
 for  file in os.listdir(DIR):
     # print(file)
     if file.endswith('.md') and file != 'ReadMe.md':
-        output.append('[{0}]({0}) \n'.format(file))
+        output.append('[{0}]({0})  \n'.format(file))
     
 with open(os.path.join(DIR, 'ReadMe.md'),'w') as f:
     f.writelines(output)
