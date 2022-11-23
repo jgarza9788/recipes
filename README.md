@@ -1,4 +1,5 @@
 [acv_drink.md](acv_drink.md)  
+[Air_Fried_Fries.md](Air_Fried_Fries.md)  
 [baked-zucchini.md](baked-zucchini.md)  
 [BrusselsSprouts.md](BrusselsSprouts.md)  
 [ButternutSquash.md](ButternutSquash.md)  
@@ -12,4 +13,5 @@
 [README.md](README.md)  
 [RedChicken.md](RedChicken.md)  
 [RoastedYams.md](RoastedYams.md)  
+[StoveTopStuffing.md](StoveTopStuffing.md)  
 [Stroganoff.md](Stroganoff.md)  
