@@ -5,8 +5,10 @@ rating: ⭐⭐⭐⭐⭐
 ## ingredients
 * 2 cans (14.5 oz each) French-style green beans, drained
 * 1 can (10.5 oz) condensed cream of mushroom soup
-* 1/4 cup milk
+	* an extra can if you want extra creamy
+~~* 1/4 cup milk~~ skip this
 * 1 container (2.8 oz) crispy fried onions
+* some paremsan cheese to sprinkle on (optional))
 
 ## Steps
 1. Heat oven to 350°F. In 1 1/2-quart casserole or glass baking dish, mix green beans, soup and milk.
