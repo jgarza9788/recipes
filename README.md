@@ -1,5 +1,6 @@
 [acv_drink.md](acv_drink.md)  
 [Air_Fried_Fries.md](Air_Fried_Fries.md)  
+[BaconWrappedJalapeno.md](BaconWrappedJalapeno.md)  
 [baked-zucchini.md](baked-zucchini.md)  
 [BrusselsSprouts.md](BrusselsSprouts.md)  
 [ButternutSquash.md](ButternutSquash.md)  
