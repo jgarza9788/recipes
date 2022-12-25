@@ -14,5 +14,6 @@
 [README.md](README.md)  
 [RedChicken.md](RedChicken.md)  
 [RoastedYams.md](RoastedYams.md)  
+[Scalloped_Potatoes.md](Scalloped_Potatoes.md)  
 [StoveTopStuffing.md](StoveTopStuffing.md)  
 [Stroganoff.md](Stroganoff.md)  
