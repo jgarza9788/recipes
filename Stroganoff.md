@@ -5,22 +5,24 @@ rating: ?
 makes 4 servings
 
 ## ingredients
-* 1 (8 ounce) package egg noodles
-* 1 pound ground beef (85%)
-* 1 (10.75 ounce) can fat free condensed cream of mushroom soup
-* 1 tablespoon garlic powder
-* 1/2 cup sour cream
+* 1 ts of oil
+* 2 (16 ounce) package egg noodles
+* 2 pound ground beef (85%) - or other meat
+* 2 ( ~20oz ) can fat free condensed cream of mushroom soup
+* a can or two of mushrooms (optional)
+* 2 tablespoon garlic powder
+* 0.5 onion (diced)
+* 1 cup sour cream
 * salt and pepper to taste
 
 ## Steps
-1. prepare noodles
-    1. follow package directions
-2. prepare beef
-    1. saute in skillet with medium heat
-    2. Once browned, drain fat from beef
-    3. add soup and garlic power to beef
-    4. simmer for 10mins, stirring occasionally
-3. combine
-    1. remove beef from heat
-    2. mix in noodles and sour cream
-    3. add salt and pepper
+1. heat oil
+2. brown meat (add pepper and onion to taste)
+3. drain beef
+4. add garlic powder or minced (to taste)
+5. Stir in mushroom soup.
+6. high pressure for 10-15mins
+7. Stir in noodles 
+8. high pressure for 5mins
+9. stir in sour cream
+
