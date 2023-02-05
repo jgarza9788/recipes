@@ -19,10 +19,11 @@ makes 4 servings
 1. heat oil
 2. brown meat (add pepper and onion to taste)
 3. drain beef
+* don't drain too much since the liquid will be needed to help the noodles cook.
 4. add garlic powder or minced (to taste)
 5. Stir in mushroom soup.
 6. high pressure for 10-15mins
 7. Stir in noodles 
+* yes, raw provided there is enough liquid.
 8. high pressure for 5mins
 9. stir in sour cream
-
