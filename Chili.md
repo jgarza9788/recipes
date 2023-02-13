@@ -8,6 +8,7 @@ makes 4 servings
 * 1 tbsp. oil
 * 1 onion, chopped 
 * 3 cloves garlic, minced 
+* a few peppers (optional)
 * 2 tbsp. tomato paste
 * 1.5 lb. ground beef
 * 2 cups low-sodium beef broth
@@ -34,4 +35,4 @@ makes 4 servings
 6. drain fat (if needed)
 7. add borth, tomatos, chili powder and other spices
 8. pressure cook 14min on high
-9. 
+
