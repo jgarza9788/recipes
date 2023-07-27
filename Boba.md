@@ -17,5 +17,5 @@ aka Tapioca Pearls
 3. let rest for 5min
 4. done
 
-## serve
-* with cheese and fried egg
+## ⚠️ WARNNING ⚠️
+* do not refigerate 
