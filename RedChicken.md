@@ -31,6 +31,7 @@ Salt,
 pepper,  
 garlic powder,  
 and Chinese 5 spice.
+and maybe soy sauce 
 
 ## Tandoori
 * Plain Greek Yoghurt  
