@@ -25,3 +25,6 @@
 4. Place on Tray with Sausage/Kielbasa
 5. 400 degress for 45mins
 
+## notes
+* don't try to do this in an instapot, pressure cooking turns this into a soup.
+* maybe pre-bake the potatos, since they are not as done as they should be.
