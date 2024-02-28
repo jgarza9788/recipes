@@ -1,6 +1,8 @@
 
 # Sausage And Potato Tray.md
 [LINK](https://www.tiktok.com/t/ZT84ubkTM/)
+## score: 1/5 stars
+
 
 ## ingredients
 * Sausage/Kielbasa
