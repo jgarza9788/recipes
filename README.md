@@ -17,6 +17,7 @@
 [HamburgSteak.md](HamburgSteak.md)  
 [homemade_Febreze.md](homemade_Febreze.md)  
 [Jam.md](Jam.md)  
+[laundry_detergent_powder.md](laundry_detergent_powder.md)  
 [PizzaSoup.md](PizzaSoup.md)  
 [PorkChops.md](PorkChops.md)  
 [README.md](README.md)  
