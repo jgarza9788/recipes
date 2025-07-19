@@ -1,7 +1,9 @@
 Green Beans
 
-* Beef tallow / Butter
-* Garlic (minced)
+* Beef tallow (or Butter)
+* Garlic (minced) ... can be substituted with garlic powder
+* Onion (minced/optional)
+* Salt (optional)
 * Stake seasoning (optional)
 * Green beans 
 
@@ -13,4 +15,9 @@ Green Beans
       * they will cook while the pressure builds
 
 2. sauté with other ingredients
+   * medium or low heat - don't burn them
    * eye ball amounts based on taste
+
+## suggestions
+* 1 TSP for each seasoning (per LB of greenbeans)
+   * a little more for the seasonings you like.
