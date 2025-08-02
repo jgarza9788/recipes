@@ -19,6 +19,7 @@
 [HamburgSteak.md](HamburgSteak.md)  
 [homemade_Febreze.md](homemade_Febreze.md)  
 [Jam.md](Jam.md)  
+[JapaneseRice.md](JapaneseRice.md)  
 [laundry_detergent_powder.md](laundry_detergent_powder.md)  
 [PizzaSoup.md](PizzaSoup.md)  
 [PorkChops.md](PorkChops.md)  
@@ -31,3 +32,4 @@
 [StoveTopStuffing.md](StoveTopStuffing.md)  
 [Stroganoff.md](Stroganoff.md)  
 [TacoTaterCasserole.md](TacoTaterCasserole.md)  
+[Teriyaki_Chicken.md](Teriyaki_Chicken.md)  
